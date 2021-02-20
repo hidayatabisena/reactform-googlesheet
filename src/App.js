@@ -16,7 +16,7 @@ function App() {
 
 		axios
 			.post(
-				'https://sheet.best/api/sheets/290f8b68-8813-4ad9-8925-96a5659d2775',
+				'url',
 				objt
 			)
 			.then((response) => {

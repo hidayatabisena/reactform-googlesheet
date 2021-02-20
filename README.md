@@ -1,6 +1,6 @@
 # Form Kontak terintegrasi dengan GoogleSheet
 
-![Image preview]()
+![Image preview](https://user-images.githubusercontent.com/3937792/108589214-f9005c00-738f-11eb-9159-099a09edf906.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
